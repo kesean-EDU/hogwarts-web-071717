@@ -1,0 +1,1 @@
+const HOGPICS = ["augustus_gloop.jpg", "bay_of_pigs.jpg", "cherub.jpg", "cherub.png", "galaxy_note.jpg", "leggo_my_eggo.jpg", "mudblood.jpg", "piggy_smalls.jpg", "porkchop.jpg", "rainbowdash.jpg", "sobriety.jpg", "the_prosciutto_concern.jpg", "trouble.jpg", "truffleshuffle.jpg"]

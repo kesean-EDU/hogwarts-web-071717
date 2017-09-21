@@ -1,0 +1,5 @@
+favicon.ico
+hog-imgs
+index.html
+manifest.json
+pigs.txt
